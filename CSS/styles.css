@@ -1,0 +1,40 @@
+/*Teg selektr*/
+h1{
+color: darkred;
+    font-size: 50px;
+}
+p{
+font-size: 40px;    
+}
+/* class selektr */
+.c{
+    background-color: cyan; 
+    }
+ .c:hover{
+background-color:yellow ;
+border-radius:100% ;
+ }   
+.a{
+ background-color: rgb(156, 7, 107);
+ width: 380px;
+ height: 350px;  
+}
+.b{
+border-radius:100%;    
+}
+/*id selektor*/
+#a1{
+color: green;  
+}
+#a1:hover{
+color: blue;
+font-size: 70px;
+}
+#a2:hover{
+color: darkkhaki;
+font-size: 90px; ;    
+}
+#a3:hover{
+color: hotpink;
+font-size:90px; ;
+}
